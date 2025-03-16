@@ -1,6 +1,7 @@
 # Nividia Omniverse extension for Picar-x Digital Twin
-Picar-X is a robotic car commonly used for research and education activities. I created an extension using Nvidia Omniverse to create the digital twin of Picar-X and it can be controlled within the extension kit I created, that you will find in this repository. 
-In this repository you will find all you need to enable the extension created in Nvidia Omniverse. This extension includes the extension.py file, which is the code used for developing the extension. 
+Picar-X is a robotic car widely used for research and educational purposes. I developed an extension using NVIDIA Omniverse to create a digital twin of the Picar-X, allowing it to be controlled directly within the extension kit I built. The communication protocol used is MQTT on Python (mosquitto broker)
+
+This repository contains everything needed to enable the extension in NVIDIA Omniverse, including the extension.py file, which serves as the core of the extension's functionality.
 ## System Framework Preview
 ![Preview](https://github.com/camilodel02/Picar-X-Nvidia-Omniverse-using-Mqtt/blob/main/DigitalTwin.png)
 # Extension Project Template
